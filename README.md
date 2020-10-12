@@ -9,7 +9,11 @@ Medium Blog Series:
 
 #3 https://medium.com/@lulstrup/3-automated-download-of-usaspending-gov-gfy-archives-e6c71b3eb7d1
 
-#4 TBD
+#4 https://medium.com/@lulstrup/4-usaspending-gov-analytics-loading-data-into-dask-and-pandas-3e83af441901
+
+#5 https://medium.com/@lulstrup/5-is-federal-spending-on-ai-growing-cbb2881cf0d3
+
+#6 
 
 
 ______
