@@ -13,7 +13,9 @@ Medium Blog Series:
 
 #5 https://medium.com/@lulstrup/5-is-federal-spending-on-ai-growing-cbb2881cf0d3
 
-#6 
+#6 https://medium.com/@lulstrup/6-usaspending-gov-analytics-exploring-top-executive-compensation-patterns-a9efe055d42e
+
+#7 
 
 
 ______
