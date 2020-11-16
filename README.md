@@ -15,7 +15,11 @@ Medium Blog Series:
 
 #6 https://medium.com/@lulstrup/6-usaspending-gov-analytics-exploring-top-executive-compensation-patterns-a9efe055d42e
 
-#7 
+#7 https://lulstrup.medium.com/7-usaspending-gov-analytics-time-series-forecasting-with-facebooks-open-source-prophet-package-d940bb5af45b
+
+#8 https://lulstrup.medium.com/8-usaspending-gov-8263a5d0f3f3
+
+#9 In-progress
 
 
 ______
