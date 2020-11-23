@@ -19,7 +19,9 @@ Medium Blog Series:
 
 #8 https://lulstrup.medium.com/8-usaspending-gov-8263a5d0f3f3
 
-#9 In-progress
+#9 https://lulstrup.medium.com/blog-9-spotting-emerging-i-t-adoption-trends-in-the-federal-market-b257255ea299
+
+#10 TBD
 
 
 ______
